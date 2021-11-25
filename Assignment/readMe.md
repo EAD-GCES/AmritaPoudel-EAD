@@ -40,8 +40,8 @@ GEAF benefits:
 * Model your business goals and the capabilities and investments you need to deliver them.
 * Design a future operating model that is technically and strategically aligned with all-of-government programs and services 
 
-Assignment Submission Date: 25 Nov 2021
-Assignment Deadline: 26 Nov 2021 (Friday)
-Submitted by: Amrita Poudel
-Roll no.: 05
+- Assignment Submission Date: 25 Nov 2021
+- Assignment Deadline: 26 Nov 2021 (Friday)
+- Submitted by: Amrita Poudel
+- Roll no.: 05
 
