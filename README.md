@@ -11,5 +11,5 @@ Helps in indexing the folders that I have added.
 | ------------- | ----- | --------------- | ------------- | 
 | 1. | [Lab 1](https://github.com/amritapoudel16/EAD/tree/main/Practical/Lab%201) | 30 Nov 2021 | 2 Dec 2021 |
 | 2. | [Lab 2](https://github.com/amritapoudel16/EAD/tree/main/Practical/Lab%202) | 29 Nov 2021 | 6 Dec 2021 |
-| 3. | [Lab 3]() | 29 Nov 2021 | 6 Dec 2021 |
-| 4. | [Lab 4](https://github.com/amritapoudel16/EAD/tree/main/Practical/Lab%204/Factory%20Design%20Pattern) | 30 Nov 2021 | 7 Dec 2021 |
+| 3. | [Lab 3](https://github.com/amritapoudel16/EAD/tree/main/Practical/Lab%203/Singleton%20Design%20Pattern) | 29 Nov 2021 | 6 Dec 2021 |
+| 4. | [Lab 4](https://github.com/amritapoudel16/EAD/tree/main/Practical/Lab%204/Factory%20Design%20Pattern) | 6 Dec 2021 | 13 Dec 2021 |
