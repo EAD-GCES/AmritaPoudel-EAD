@@ -1,5 +1,5 @@
 # Indexing
 Helps in indexing the folders that I have added.
-## Indexed files
-[Assignments](https://github.com/amritapoudel16/EAD/tree/main/Assignment)
-1. [Assignment 1](https://github.com/amritapoudel16/EAD/tree/main/Assignment/Assignment%201)
+## Assignments
+| Assignment No. | Title | Submission Date | Deadline Date|
+| 1.             | [Government Enterprise and Architecture Framework](https://github.com/amritapoudel16/EAD/tree/main/Assignment/Assignment%201) |
